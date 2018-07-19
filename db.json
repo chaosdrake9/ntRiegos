@@ -1,6 +1,6 @@
 {
- "usuarios":[
-  {id": 1, "usuario": "Pancho", "puntaje": 12},
-  {id": 2, "usuario": "alexei", "puntaje": 123}
+ "usuarios": [
+  { "id": 1, "usuario": "Pancho", "puntaje": 12 },
+  { "id": 2, "usuario": "alexei", "puntaje": 123 }
   ]
 }
